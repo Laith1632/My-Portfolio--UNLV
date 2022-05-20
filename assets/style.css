@@ -17,3 +17,6 @@ color: red;
  h3{
      color: whitesmoke;
  }
+ .white_text:hover{
+color: whitesmoke;
+ }
