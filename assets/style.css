@@ -6,4 +6,14 @@ h1 {
     color:whitesmoke}
     H2{
         color: whitesmoke;
-    }
+ }
+
+ h3{
+     text-align: center;
+ }
+ .red-text:hover{
+color: red;
+ }
+ h3{
+     color: whitesmoke;
+ }
